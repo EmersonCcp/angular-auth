@@ -6,6 +6,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 App para autenticación
 
+## Vista Previa - Login
+
+![login](/src/assets/img/login.png)
+
+## Vista Previa - Register
+
+![login](/src/assets/img/register.png)
+
 ## Instalación
 
 ## 1. Clona este repositorio:
